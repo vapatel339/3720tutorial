@@ -1,6 +1,9 @@
-# 3720tutorial
-practice using github with a tutorial
+Welcome to my 3720tutorial repo!
 
-change was made using notepad :)
+This repo is for my software engineering projects at Clemson University.
 
-2nd change
+About Me:
+
+Name: John Mathews
+Year: Junior
+e-mail: mathew7@clemson.edu
